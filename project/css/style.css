@@ -1,0 +1,527 @@
+body {
+    font-family: Inter, sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 150%;
+    margin: 0 0;
+}
+
+.registration-main {
+    background-image: url("../img/purple-block.jpg");
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+
+body a {
+    text-decoration: none;
+    color:#000000;
+}
+
+.logo {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 16px;
+}
+
+figure {
+    font-size: 20px
+}
+
+.back {
+    font-size: 20px;
+    font-weight: 400;
+    color: #828282;
+}
+
+h1 {
+    font-size: 64px;
+    font-weight: 400;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 16px;
+}
+
+.registration-main p {
+    color: #828282;
+    font-weight: 500;
+}
+
+.create-profile {
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 20px;
+    width: 620px;
+    height: 62px;
+}
+
+.registration-footer p {
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.links p{
+    font-size: 16px;
+}
+
+.registration-footer a {
+    color: #828282;
+}
+
+.button-role {
+    font-weight: 400;
+    line-height: 24px;
+    font-size: 16px;
+    color: #828282;
+    background-image: url("../img/button-choice.svg");
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-size: 12px 6px;
+    width: 347px;
+    height: 55px;
+}
+
+.help .full-help {
+    display: none;
+}
+  
+.help:hover .full-help {
+    display: block;
+}
+
+.about-project .full-about-project {
+    display: none;
+}
+  
+.about-project:hover .full-about-project {
+    display: block;
+}
+
+.scroll-header .more {
+    background-image: url("../img/button-choice.svg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 24px;
+    height: 24px;
+}
+
+.scroll-main .more {
+    background-image: url("../img/more.svg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 56px;
+    height: 40px;
+}
+
+.main h1 {
+    background-image: url("../img/purple-background.jpg");
+    background-repeat: no-repeat;
+    background-size: 1436px 721px;
+}
+
+.scroll-footer {
+    padding-bottom: 88px;
+    background-image: url("../img/scroll-bottom.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 1453px 88px;
+}
+
+.main-footer {
+    padding-bottom: 88px;
+    background-image: url("../img/main-bottom.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 1453px 88px;
+}
+
+.personprofile-footer {
+    padding-bottom: 67px;
+    background-image: url("../img/profile-bottom.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 1453px 67px;
+}
+
+.projectcreating-header {
+    padding-top: 38px;
+    background-image: url("../img/creating-top.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100% 38px;
+}
+
+.project-main {
+    padding-top: 166px;
+    background-image: url("../img/project-top.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 1403px 166px;
+}
+
+.project-footer {
+    padding-bottom: 67px;
+    background-image: url("../img/profile-bottom.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 1453px 67px;
+}
+
+.organisationprofile-footer {
+    padding-bottom: 67px;
+    background-image: url("../img/profile-bottom.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 1453px 67px;
+}
+
+.how-create .full-how-create {
+    display: none;
+}
+  
+.how-create:hover .full-how-create {
+    display: block;
+}
+
+.if-hard .full-if-hard {
+    display: none;
+}
+  
+.if-hard:hover .full-if-hard {
+    display: block;
+
+}
+.contacts .full-contacts {
+    display: none;
+}
+  
+.contacts:hover .full-contacts {
+    display: block;
+}
+
+.questions .full-questions {
+    display: none;
+}
+  
+.questions:hover .full-questions {
+    display: block;
+}
+
+.how-find .full-how-find {
+    display: none;
+}
+  
+.how-find:hover .full-how-find {
+    display: block;
+}
+
+.share {
+    background-color: #2691F4;
+    color:#ffffff
+}
+
+.scroll-main h1 {
+    font-weight: bold;
+    font-size: 64;
+    line-height: auto;
+}
+
+.search {
+    font-size: 24px;
+    color: #828282;
+}
+
+.scroll-main h2 {
+    line-height: 110%;
+}
+
+.portfolio-list p {
+    font-size: 20px;
+    font-weight: 400;
+    color: #828282;
+}
+
+.portfolio-list a {
+    color: #ffffff;
+    background-color: #000000;
+}
+
+h4 {
+    font-weight: 600;
+}
+
+.menu {
+    font-weight: 500;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.site {
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.links a {
+    color: #454545;
+}
+
+.inter {
+    font-size: 20px;
+}
+
+.main h1 {
+    font-family: Montserrat, sans-serif;
+    font-weight: 400;
+    font-size: 48px;
+    color: #ffffff;
+    width: 1436px;
+    height: 721px;
+}
+
+.main h1 a {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.main h2 {
+    font-weight: bold;
+    font-size: 64px;
+    line-height: auto;
+}
+
+.main h3 {
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.about-service p {
+    font-size: 20px;
+    color: #828282;
+    font-weight: 500;
+}
+
+.registration-link a {
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.personprofile-main h1 {
+    font-size: 64px;
+    font-weight: bold;
+    line-height: auto;
+}
+
+.personprofile-main h3 {
+    font-size: 24px;
+}
+
+.personprofile-main p {
+    font-weight: 500;
+    color: #828282;
+}
+
+h4 {
+    font-weight: 500;
+}
+
+.edit {
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.menu-list button {
+    font-size: 16px;
+    font-weight: 600px;
+}
+
+.menu-list .help p {
+    color: #000000;
+    font-size: 16px;
+}
+
+.personprofile-main h2 {
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 150%;
+}
+
+.creating {
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 36px;
+}
+
+.organisationprofile-main h1 {
+    font-size: 64px;
+    font-weight: bold;
+    line-height: auto;
+}
+
+.organisationprofile-main h2 {
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.organisationprofile-main p {
+    font-weight: 500;
+    color: #828282;
+}
+
+.organisationprofile-main h4 {
+    font-weight: 600;
+}
+
+.organisationprofile-main h3 {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.requirements-list {
+    font-size: 20px;
+    font-weight: 500;
+    color: #555555;
+}
+
+.projectcreating-header .back {
+    color: #000000;
+    font-weight: 500;
+    padding: 67px 80px;
+}
+
+.projectcreating-main {
+    padding: 124px 143px;
+}
+
+.projectcreating-main h1 {
+    font-size: 64px;
+    font-weight: bold;
+    line-height: auto;
+    padding-bottom: 77px;
+}
+
+.projectcreating-main h2 {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+}
+
+.projectcreating-main p {
+    color: #828282;
+    font-weight: 500;
+    border: 1px solid #E0E0E0;
+    border-radius: 7px;
+}
+
+.projectcreating-main .industry {
+    font-weight: 400;
+    line-height: 24px;
+    font-size: 16px;
+    color: #828282;
+    background-image: url("../img/button-choice.svg");
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-size: 12px 6px;
+    width: 218px;
+    height: 48px;
+    background-color: #ffffff;
+    border: 1px solid #E0E0E0;
+    border-radius: 7px;
+}
+
+.projectcreating-main .name{
+    width: 295px;
+    height: 48px;
+}
+
+.projectcreating-main .description{
+    width: 626px;
+    height: 48px;
+}
+
+.projectcreating-main .files{
+    width: 626px;
+    height: 162px;
+}
+
+.save {
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 20px;
+    border: 1px solid #000000;
+    width: 626px;
+    height: 62px;
+    border-radius: 7px;
+}
+
+.add-cover {
+    font-weight: 400;
+    font-size: 24px;
+    color: #828282;
+    background-color: #ffffff;
+    border: none;
+}
+
+.share {
+    font-weight: 500;
+}
+
+.project-main .edit {
+    font-weight: 500;
+    font-size: 20px;
+    color: #909090;
+    background-color: #ffffff;
+}
+
+.project-main .back {
+    color: #000000;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.project-main h1 {
+    font-size: 64px;
+    font-weight: 700;
+    line-height: auto;
+}
+
+.project-main h2 {
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 150%;
+}
+
+.project-main p {
+    font-weight: 500;
+    font-size: 20px;
+    color: #828282;
+}
+
+.add {
+    background-color: #020202;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 36px;
+}
+
+.files-list p{
+    font-size: 16px;
+    font-weight: 500;
+    color: #000000;
+}
+
+.files-list .date{
+    font-weight: 400;
+    color: #828282;
+}
+
+.files-list button {
+    color: #828282;
+}

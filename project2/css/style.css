@@ -1,0 +1,1163 @@
+body {
+    font-family: Inter, sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 150%;
+    margin: 0;
+    padding: 0;
+}
+
+.registration-main {
+    background-image: url("../img/purple-block.jpg");
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+
+body a {
+    text-decoration: none;
+    color:#000000;
+}
+
+.logo {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 16px;
+}
+
+figure {
+    font-size: 20px
+}
+
+.back {
+    font-size: 20px;
+    font-weight: 400;
+    color: #828282;
+}
+
+h1 {
+    font-size: 64px;
+    font-weight: 400;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 16px;
+}
+
+.registration-main p {
+    color: #828282;
+    font-weight: 500;
+}
+
+.create-profile {
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 20px;
+    width: 620px;
+    height: 62px;
+}
+
+.registration-footer p {
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.links p{
+    font-size: 16px;
+}
+
+.registration-footer a {
+    color: #828282;
+}
+
+.button-role {
+    font-weight: 400;
+    line-height: 24px;
+    font-size: 16px;
+    color: #828282;
+    background-image: url("../img/button-choice.svg");
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-size: 12px 6px;
+    width: 347px;
+    height: 55px;
+}
+
+.help .full-help {
+    display: none;
+}
+  
+.help:hover .full-help {
+    display: block;
+}
+
+.about-project .full-about-project {
+    display: none;
+}
+  
+.about-project:hover .full-about-project {
+    display: block;
+}
+
+.scroll-header .more {
+    background-image: url("../img/button-choice.svg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 24px;
+    height: 24px;
+}
+
+.scroll-main .more {
+    background-image: url("../img/more.svg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 56px;
+    height: 40px;
+}
+
+.main {
+    background-image: url("../img/purple-background.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100% 721px;
+}
+
+.scroll-footer {
+    background-image: url("../img/scroll-bottom.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 100% 42.5px;
+}
+
+.main-footer {
+    background-image: url("../img/main-bottom.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 100% 88px;
+}
+
+.personprofile-footer {
+    background-image: url("../img/profile-bottom.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 100% 35.5px;
+}
+
+.projectcreating-header {
+    background-image: url("../img/creating-top.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100% 38px;
+}
+
+.project-main {
+    background-image: url("../img/project-top.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100% 166px;
+}
+
+.project-footer {
+    background-image: url("../img/profile-bottom.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 100% 35.5px;
+}
+
+.organisationprofile-footer {
+    background-image: url("../img/profile-bottom.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 100% 35.5px;
+}
+
+.how-create .full-how-create {
+    display: none;
+}
+  
+.how-create:hover .full-how-create {
+    display: block;
+}
+
+.if-hard .full-if-hard {
+    display: none;
+}
+  
+.if-hard:hover .full-if-hard {
+    display: block;
+
+}
+.contacts .full-contacts {
+    display: none;
+}
+  
+.contacts:hover .full-contacts {
+    display: block;
+}
+
+.questions .full-questions {
+    display: none;
+}
+  
+.questions:hover .full-questions {
+    display: block;
+}
+
+.how-find .full-how-find {
+    display: none;
+}
+  
+.how-find:hover .full-how-find {
+    display: block;
+}
+
+.share {
+    background-color: #2691F4;
+    color:#ffffff
+}
+
+.scroll-main h1 {
+    font-weight: bold;
+    font-size: 64;
+    line-height: auto;
+}
+
+.search {
+    font-size: 24px;
+    color: #828282;
+}
+
+.scroll-main h2 {
+    line-height: 110%;
+}
+
+.portfolio-list p {
+    font-size: 20px;
+    font-weight: 400;
+    color: #828282;
+}
+
+.portfolio-list a {
+    color: #ffffff;
+    background-color: #000000;
+}
+
+h4 {
+    font-weight: 600;
+}
+
+.menu {
+    font-weight: 500;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.site {
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.links a {
+    color: #454545;
+}
+
+.inter {
+    font-size: 20px;
+}
+
+.main h1 {
+    font-family: Montserrat, sans-serif;
+    font-weight: 400;
+    font-size: 48px;
+    color: #ffffff;
+}
+
+.main .h1-part2 a {
+    font-family: Montserrat, sans-serif;
+    font-weight: 500;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 24px;
+}
+
+.main h2 {
+    font-weight: bold;
+    font-size: 64px;
+    line-height: auto;
+}
+
+.main h3 {
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.about-service p {
+    font-size: 20px;
+    color: #828282;
+    font-weight: 500;
+}
+
+.registration-link a {
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.personprofile-main h1 {
+    font-size: 64px;
+    font-weight: bold;
+    line-height: auto;
+}
+
+.personprofile-main h3 {
+    font-size: 24px;
+}
+
+.personprofile-main p {
+    font-weight: 500;
+    color: #828282;
+}
+
+h4 {
+    font-weight: 500;
+}
+
+.edit {
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.menu-list a {
+    font-size: 16px;
+    font-weight: 600px;
+}
+
+.menu-list .help p {
+    color: #000000;
+    font-size: 16px;
+}
+
+.personprofile-main h2 {
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 150%;
+}
+
+.creating {
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 36px;
+}
+
+.organisationprofile-main h1 {
+    font-size: 64px;
+    font-weight: bold;
+    line-height: auto;
+}
+
+.organisationprofile-main h2 {
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.organisationprofile-main p {
+    font-weight: 500;
+    color: #828282;
+}
+
+.organisationprofile-main h4 {
+    font-weight: 600;
+}
+
+.organisationprofile-main h3 {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.requirements-list {
+    font-size: 20px;
+    font-weight: 500;
+    color: #555555;
+}
+
+.projectcreating-header .back {
+    color: #000000;
+    font-weight: 500;
+}
+
+.projectcreating-main {
+    padding: 124px 143px;
+}
+
+.projectcreating-main h1 {
+    font-size: 64px;
+    font-weight: bold;
+    line-height: auto;
+    padding-bottom: 77px;
+}
+
+.projectcreating-main h2 {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+}
+
+.projectcreating-main p {
+    color: #828282;
+    font-weight: 500;
+    border: 1px solid #E0E0E0;
+    border-radius: 7px;
+}
+
+.projectcreating-main .industry {
+    font-weight: 400;
+    line-height: 24px;
+    font-size: 16px;
+    color: #828282;
+    background-image: url("../img/button-choice.svg");
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-size: 12px 6px;
+    width: 218px;
+    height: 48px;
+    background-color: #ffffff;
+    border: 1px solid #E0E0E0;
+    border-radius: 7px;
+}
+
+.projectcreating-main .name{
+    width: 295px;
+    height: 48px;
+}
+
+.projectcreating-main .description{
+    width: 626px;
+    height: 48px;
+}
+
+.projectcreating-main .files{
+    width: 626px;
+    height: 162px;
+}
+
+.save {
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 20px;
+    border: 1px solid #000000;
+    width: 626px;
+    height: 62px;
+    border-radius: 7px;
+}
+
+.add-cover {
+    font-weight: 400;
+    font-size: 24px;
+    color: #828282;
+    background-color: #ffffff;
+    border: none;
+}
+
+.share {
+    font-weight: 500;
+}
+
+.project-main .edit {
+    font-weight: 500;
+    font-size: 20px;
+    color: #909090;
+    background-color: #ffffff;
+}
+
+.project-main .back {
+    color: #000000;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.project-main h1 {
+    font-size: 64px;
+    font-weight: 700;
+    line-height: auto;
+}
+
+.project-main h2 {
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 150%;
+}
+
+.project-main p {
+    font-weight: 500;
+    font-size: 20px;
+    color: #828282;
+}
+
+.add {
+    background-color: #020202;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 36px;
+}
+
+.files-list p{
+    font-size: 16px;
+    font-weight: 500;
+    color: #000000;
+}
+
+.files-list .date{
+    font-weight: 400;
+    color: #828282;
+}
+
+.files-list button {
+    color: #828282;
+}
+
+.registration-header {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 10px;
+    padding-top: 25px;
+    padding-right: 35px;
+    padding-bottom: 93px;
+    padding-left: 30px; 
+    display: flex;
+}
+
+.registration-header .logo {
+    margin: 0;
+    padding: 15px 32.5px;
+    margin-right: 905px;
+}
+
+.registration-header .help {
+    margin: 0;
+    padding: 0;
+    margin-right: 48px;
+}
+
+.registration-header .about-project {
+    margin: 0;
+    padding: 0;
+}
+
+.registration-main {
+    margin: 0;
+    padding: 0;
+    margin-left: 70px;
+    margin-bottom: 173px;
+}
+
+.registration-main .back {
+    margin-left: 18px;
+}
+
+.registration-main h1 { 
+    margin-left: 10px;
+    padding-bottom: 41px;
+}
+
+.registration-main h2 { 
+    margin: 0;
+    padding: 0;
+    margin-left: 5px;
+    margin-bottom: 26px;
+}
+
+.registration-main .button-role {
+    margin: 0;
+    padding-top: 15.5px;
+    padding-right: 56px;
+    padding-bottom: 15.5px;
+    padding-left: 16px;
+    margin-bottom: 18px;
+}
+
+.name-surname {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 24px;
+}
+
+.divname {
+    margin-right: 32px;
+    width: 295px;
+}
+
+.name-surname p {
+    margin: 0;
+    padding: 12px 16px;
+}
+
+.registration-main h3 {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 8px;
+}
+
+.registration-main .email {
+    margin: 0;
+    margin-bottom: 26px;
+    padding: 12px 16px;
+}
+
+.registration-main .industry{
+    margin: 0;
+    margin-bottom: 40px;
+    padding: 12px 16px;
+}
+
+footer {
+    margin: 0;
+    padding: 48px 80px;
+    display: flex;
+}
+
+footer .social-list {
+    display: flex;
+    margin: 0;
+    padding: 0; 
+    list-style: none;
+}
+
+footer .links {
+    display: flex;
+    margin: 0;
+    padding: 0; 
+}
+
+footer .links ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+footer .links p {
+    margin: 0;
+    padding: 0; 
+    margin-bottom: 24px;
+}
+
+footer .links li {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 24px;
+}
+
+footer .links li:nth-last-child() {
+    margin: 0;
+    padding: 0;
+}
+
+footer .links div {
+    margin: 0;
+    padding: 0; 
+}
+
+footer .links div:nth-child(1) {
+    margin-right: 32px;
+}
+
+footer .links div:nth-child(2) {
+    margin-right: 31px;
+}
+
+footer .us {
+    margin-top: 52px;
+    margin-right: 472px;
+    margin-bottom: 48px;
+    margin-left: 80px;
+    padding: 0;
+}
+
+footer .us p {
+    margin: 0;
+    padding: 0; 
+    margin-bottom: 88px;
+}
+
+footer .social-list-item {
+    margin: 0;
+    margin-right: 8px;
+}
+
+.facebook {
+    padding: 10.04 10;
+}
+
+.in {
+    padding: 11;
+}
+
+.youtube {
+    padding: 13 10;
+}
+
+.instagram {
+    padding: 10;
+}
+
+footer .social-list-item:nth-last-child(1) {
+    margin: 0;
+}
+
+.scroll-header {
+    margin: 0;
+    padding-top: 12px;
+    padding-right: 48px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    margin-bottom: 103px;
+    display: flex;
+}
+
+.scroll-header .logo {
+    margin: 0;
+    margin-right: 953px;
+    padding: 15px 32.5px;
+}
+
+.scroll-header .share {
+    margin: 0;
+    margin-right: 24px;
+    padding: 8px 16px;
+}
+
+.scroll-header .avatar {
+    margin: 0;
+    margin-right: 8px;
+    padding: 0;
+}
+
+.scroll-header .more {
+    margin: 8px 0;
+    padding: 0;
+}
+
+.scroll-main {
+    margin-top: 0;
+    margin-right: 10px;
+    margin-bottom: 18px;
+    margin-left: 120px;
+    display: flex;
+}
+
+.scroll-main .feed {
+    margin: 0;
+    padding: 0;
+    margin-right: 134px;
+}
+
+.scroll-main h1 {
+    margin: 0;
+    padding: 0;
+    margin-left: 7px;
+    margin-bottom: 94px;
+}
+
+.scroll-main .search {
+    margin: 0;
+    padding-top: 12px;
+    padding-right: 507px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    margin-bottom: 111px;
+}
+
+.scroll-main .portfolio-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.scroll-main .portfolio-list-item {
+    margin: 0;
+    margin-left: 13px;
+    padding: 0;
+    display: flex;
+}
+
+.scroll-main img {
+    margin: 0;
+    padding: 0;
+    margin-right: 36px;
+    margin-bottom: 56px;
+}
+
+.scroll-main img:nth-last-child(1) {
+    margin-bottom: 45px;
+}
+
+.scroll-main h2 {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 24px;
+}
+
+.scroll-main .candidate-information p {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 16px;
+}
+
+.scroll-main .candidate-information a {
+    margin: 0;
+    padding: 12px 8.5px;
+    margin-left: 141px;
+}
+
+.scroll-main .more {
+    margin: 0;
+    padding: 0;
+    margin-left: 513px;
+}
+
+.scroll-main .out-feed {
+    margin: 0;
+    padding-top: 120px;
+    padding-right: 33px;
+    margin-top: 5px;
+}
+
+.out-feed ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.scroll-main .menu {
+    padding: 0;
+    margin-top: 0;
+    margin-left: 12px;
+    margin-bottom: 179px;
+    margin-right: 4px;
+}
+
+.scroll-main .menu h4 {
+    margin: 0;
+    padding: 8px 16px;
+    margin-bottom: 4px;
+}
+
+.scroll-main .out-feed .menu-list-item {
+    margin: 0;
+    margin-bottom: 4px;
+    padding-top: 8px;
+    padding-right: 16px;
+    padding-bottom: 8px;
+    padding-left: 56px;
+}
+
+.scroll-main .out-feed .menu-list-item:nth-last-child(1) {
+    margin: 0;
+}
+
+.scroll-main .useful {
+    padding-top: 24px;
+    padding-right: 8px;
+    padding-bottom: 0;
+    padding-left: 8px;
+    margin: 0;
+}
+
+.scroll-main .useful h3 {
+    margin-top: 0;
+    margin-right: 24px;
+    margin-bottom: 24px;
+    margin-left: 16px;
+    padding: 0;
+}
+
+.scroll-main .out-feed .useful-list-item {
+    margin: 0;
+    margin-bottom: 4px;
+    padding: 8px 16px;
+}
+
+.scroll-main .out-feed .useful-list-item:nth-last-child(1) {
+    margin: 0;
+}
+
+.scroll-footer {
+    padding-bottom: 63.5px;
+}
+
+.main-header { 
+    margin: 0;
+    padding-left: 25px;
+    padding-top: 14px;
+    padding-right: 37px; 
+    padding-bottom: 11px;
+}
+
+.main-header .logo {
+    margin: 0;
+    margin-right: 1075px;
+    padding: 15px 32.5px;
+}
+
+.main-header .inter {
+    padding: 0;
+    margin: 0;
+    margin-top: 4;
+    margin-bottom: 12px;
+}
+
+.main { 
+    margin: 0;
+    padding: 0;
+    margin-bottom: 193px;
+    padding-top: 65px;
+}
+
+.main h1 {
+    padding: 0;
+    margin: 0;
+    margin-left: 148px;
+    line-height: 150%;
+}
+
+.main h1 .h1-part1 {
+    width: 837px;
+    margin-bottom: 140px;
+}
+
+.main h1 .h1-part2 {
+    width: 782px;
+    margin-left: 382px;
+}
+
+.main .h1-part2 a {
+    padding: 14.5px 86px;
+}
+
+.main img {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 129px;
+}
+
+.main .about-service {
+    margin: 0;
+    padding: 0;
+    margin-left: 213px;
+    margin-bottom: 413px;
+}
+
+.main h2{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 103px;
+}
+
+.main h3{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 8px;
+}
+
+.main .about-service p{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 79px;
+}
+
+.main .registration-link {
+    margin: 0;
+    margin-left: 574px;
+    padding: 16px 24px;
+}
+
+.main-footer {
+    padding-bottom: 126px;
+}
+
+.personprofile-header {
+    padding-top: 21px;
+    padding-right: 23px;
+    padding-bottom: 24px;
+    padding-left: 37px;
+    margin: 0;
+    margin-bottom: 30px;
+}
+
+.personprofile-header .logo {
+    margin: 0;
+    margin-right: 949px;
+    padding: 15px 32.5px;
+}
+
+.personprofile-header .share {
+    margin: 0;
+    margin-top: 6px;
+    margin-right: 21px;
+    padding: 8px 16px;
+}
+
+/* .personprofile-main {
+    padding: 0;
+    margin: 0;
+    margin-left: 100px;
+    margin-bottom: 247px;
+    display: grid;
+    grid-template-columns: 355px 442px 279px;
+    grid-template-areas: "title title price";
+    gap: 20px;
+}
+
+.title {
+    grid-area: title;
+}
+  
+  .price {
+    grid-area: price;
+} */
+
+.personprofile-main {
+    padding: 0;
+    margin: 0;
+    margin-left: 100px;
+    margin-bottom: 247px;
+    display: flex;
+}
+
+.personprofile-main .edit {
+    display: block;
+}
+
+.personprofile-main .personal {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    padding-top: 53px;
+    margin-bottom: 173px;
+}
+
+.personprofile-main .avatar {
+    margin: 0;
+    padding: 0;
+    margin-right: 61px;
+}
+
+.personprofile-main .avatar img {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 31px;
+}
+
+.personprofile-main .edit {
+    margin: 0;
+    padding: 14px 101.5px;
+}
+
+.personprofile-main h1 {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 26px;
+}
+
+.personprofile-main h3 {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 8px;
+}
+
+.personprofile-main p {
+    padding-top: 12px;
+    padding-right: 100px; 
+    padding-bottom: 11px; 
+    padding-left: 16px; 
+    margin: 0;
+    margin-bottom: 24px;
+}
+
+.personprofile-main h4 {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 8px;
+}
+
+.personprofile-main p:nth-last-child(1) {
+    padding-right: 16px; 
+    padding-bottom: 25px; 
+    margin-bottom: 34px;
+}
+
+.personprofile-main .project {
+    display: flex;
+}
+
+.personprofile-main .title {
+    display: flex;
+}
+
+.personprofile-main h2 {
+    display: block;
+}
+
+.personprofile-footer {
+    padding-bottom: 63.5;
+}
+
+.projectcreating-header {
+    padding-top: 67px;
+    padding-right: 1275px;
+    padding-bottom: 67px;
+    padding-left: 80px;
+    margin: 0;
+    margin-bottom: 84px;
+}
+
+.projectcreating-main {
+    padding: 0;
+    margin: 0;
+    margin-left: 143px;
+    margin-bottom: 190px;
+}
+
+.project-header {
+    padding-top: 21px;
+    padding-right: 21x;
+    padding-bottom: 24px;
+    padding-left: 37px;
+    margin: 0;
+    margin-bottom: 24px;
+}
+
+.project-main {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 286px;
+    padding-top: 185px;
+    padding-left: 58px
+}
+
+.organisationprofile-header {
+    padding-top: 21px;
+    padding-right: 23px;
+    padding-bottom: 24px;
+    padding-left: 37px;
+    margin: 0;
+    margin-bottom: 83px;
+}
+
+.organisationprofile-main {
+    padding: 0;
+    margin: 0;
+    margin-left: 80px;
+    margin-bottom: 105px;
+}
+
+.organisationprofile-footer {
+    padding-bottom: 63.5;
+}
+

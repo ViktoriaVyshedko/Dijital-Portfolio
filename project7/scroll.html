@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="utf-8">
+        <link href="css/style.css" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?famliy=Inter:wght@400..700&display=swap" rel="stylesheet">
+		<title>Dijital Portfolio Лента</title>
+	</head>
+	<body>
+        <header class="scroll-header">
+			<a class="logo" href="index.html">myArrange</a>
+            <button class="share">Поделиться</button>
+            <img class="avatar" src="img/avatar.jpg" width="40" height="40" alt="Фото профиля">
+            <button class="more"></button>
+        </header>
+        <main class="scroll-main">
+            <div class="container">
+                <div class="feed">
+                    <h1>Галерея портфолио</h1>
+                    <p class="search">Поиск</p>
+                    <ul class="portfolio-list">
+                        <li class="portfolio-list-item">
+                            <img src="img/avatar.jpg" width="189" height="185" alt="Фото профиля"> 
+                            <div class="candidate-information">
+                                <h2>Имя Фамилия</h2>
+                                <p>Сектор: IT<br>Опыт работы: 4</p>
+                                <a href="#">Смотреть</a>
+                            </div>
+                        </li>
+                        <li class="portfolio-list-item">
+                            <img src="img/avatar2.jpg" width="191" height="188" alt="Фото профиля"> 
+                            <div class="candidate-information">
+                                <h2>Имя Фамилия</h2>
+                                <p>Сектор: IT<br>Опыт работы: 4</p>
+                                <a href="#">Смотреть</a>
+                            </div>
+                        </li>
+                        <li class="portfolio-list-item">
+                            <img src="img/avatar3.jpg" width="189" height="181" alt="Фото профиля"> 
+                            <div class="candidate-information">
+                                <h2>Имя Фамилия</h2>
+                                <p>Сектор: IT<br>Опыт работы: 4</p>
+                                <a href="#">Смотреть</a>
+                            </div>
+                        </li>
+                        <li class="portfolio-list-item">
+                            <img src="img/avatar.jpg" width="189" height="185" alt="Фото профиля"> 
+                            <div class="candidate-information">
+                                <h2>Имя Фамилия</h2>
+                                <p>Сектор: IT<br>Опыт работы: 4</p>
+                                <a href="#">Смотреть</a>
+                            </div>
+                        </li>
+                        <li class="portfolio-list-item">
+                            <img src="img/avatar2.jpg" width="191" height="188" alt="Фото профиля"> 
+                            <div class="candidate-information">
+                                <h2>Имя Фамилия</h2>
+                                <p>Сектор: IT<br>Опыт работы: 4</p>
+                                <a href="#">Смотреть</a>
+                            </div>
+                        </li>
+                        <li class="portfolio-list-item">
+                            <img src="img/avatar3.jpg" width="189" height="181" alt="Фото профиля"> 
+                            <div class="candidate-information">
+                                <h2>Имя Фамилия</h2>
+                                <p>Сектор: IT<br>Опыт работы: 4</p>
+                                <a href="#">Смотреть</a>
+                            </div>
+                        </li>
+                    </ul>
+                    <button class="more"></button>
+                </div>
+                <div class="out-feed">
+                    <aside class="menu">
+                        <h4>Меню</h4>
+                        <ul class="menu-list">
+                            <li class="menu-list-item major">
+                                <a href="index.html">Главная</a>
+                            </li>
+                            <li class="menu-list-item filter">
+                                <a class="filter-button" href="#">Фильтр</a>
+                                <div class="hidden">
+                                    <ul class="filter-list">
+                                        <li class="filter-list-item">
+                                            <h5>Стаж работы:</h5>
+                                            <input id="experience" name="experience" required type="text" value="">
+                                        </li>
+                                        <li class="filter-list-item">
+                                            <h5>Сфера деятельности:</h5>
+                                            <input id="sphere" name="sphere" required type="text" value="">
+                                        </li>       
+                                    </ul>
+                                    <button>Применить</button>
+                                </div>
+                            </li>
+                        </ul>
+                    </aside>
+                </div>
+            </div>
+        </main>
+        <script src="js/script-scroll.js"></script>
+    </body>
+</html>
